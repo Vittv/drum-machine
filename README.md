@@ -1,1 +1,2 @@
-# drum-machine
+# FCC Cert Project - Drum Machine
+(React)
